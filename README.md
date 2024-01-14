@@ -12,5 +12,8 @@ Du skal bruge din HTML-kode fra HTML Basecamp #1.
 - Lav afstand imellem flere elementer.
 - Ændr farven på en stykke tekst.
 
-## Aflevering
-Du skal aflevere din opgave på GitHub. Push ofte til dit repository og lav en pull-request, når du er klar til at aflevere.
+**Aflevering**
+
+Din aflevering foregår på GitHub, så dit sidste commit/push er din aflevering.
+
+Du skal aflevere i classroom-repositoriet.
